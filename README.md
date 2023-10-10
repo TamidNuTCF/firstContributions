@@ -1,2 +1,2 @@
 # firstContributions
-Northeaster Tamid TC's first contributions
+Northeastern Tamid TC's first contributions
